@@ -1,2 +1,32 @@
-# ai-case-study
-Module 1 Challenge
+I'm interested in exploring the intersection of AI and daily life. For this case study, I'll focus on a company called "Roomba," which produces robotic vacuum cleaners equipped with AI technology.
+# Case Study: Roomba
+## Overview and Origin
+*	Name of company: iRobot Corporation (Creator of Roomba)
+*	When the company was incorporated: iRobot Corporation was founded in 1990.
+*	Founders of the company: Colin Angle, Helen Greiner, and Rodney Brooks.
+*	How did the idea for the company (or project) come about: The idea for the Roomba robot vacuum came from the founders' vision of creating practical robots for everyday tasks. Inspired by the potential for robotics in improving household chores, they developed the concept of an autonomous vacuum cleaner that could navigate and clean floors without human intervention. They recognized the need for automated cleaning solutions and developed the Roomba robotic vacuum cleaner as a practical application of robotics and AI technology.
+*	How is the company funded: iRobot Corporation has primarily generated revenue through product sales, including the Roomba line of robotic vacuum cleaners. Roomba has not received traditional venture capital funding like many startups. Instead, iRobot Corporation went public in 2005 through an initial public offering (IPO). As a publicly traded company, iRobot generates revenue primarily through the sale of its products, including the Roomba line of robotic vacuum cleaners, rather than through external funding rounds. Therefore, the company's funding primarily comes from its sales revenue and investments made by shareholders in the public stock market.
+Business Activities
+*	What specific problem is the company or project trying to solve: Roomba aims to solve the time-consuming and repetitive task of vacuuming floors, allowing users to automate cleaning routines and free up time for other activities.
+*	Who is the company's intended customer? Market size: Roomba targets homeowners, renters, and businesses seeking a convenient and efficient solution for floor cleaning. The market size for robotic vacuum cleaners has grown substantially in recent years, driven by increasing consumer demand for smart home devices and automation technology.
+*	What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?): Roomba's key offering is its advanced navigation and cleaning capabilities, enabled by proprietary technology such as iAdapt Navigation and AeroForce Cleaning System. Unlike traditional vacuum cleaners, Roomba robots can autonomously navigate and clean various floor surfaces, including carpets, hardwood, and tile, using a combination of sensors, algorithms, and brushes.
+*	Which technologies are they currently using, and how are they implementing them: Roomba robots incorporate a range of technologies, including computer vision, machine learning, and sensor fusion. These technologies enable the robots to map their environment, detect obstacles, avoid collisions, and adapt their cleaning behavior based on surface type and dirt level. Additionally, Roomba robots are equipped with Wi-Fi connectivity and smartphone integration, allowing users to schedule cleaning sessions, monitor progress, and receive notifications remotely.
+Landscape
+*	Field: Daily Life (Home Cleaning)
+*	Major trends and innovations: Over the last decade, the robotic vacuum cleaner market has witnessed significant growth and innovation. Key trends include the integration of AI and machine learning for smarter navigation and cleaning, the introduction of multi-room mapping and zone cleaning capabilities, and the adoption of voice control and smart home integration features. 
+*	Major companies in this field: Other major players in the robotic vacuum cleaner market include Ecovacs, SharkNinja, and Samsung.
+Results
+*	Business impact: Roomba has had a transformative impact on the home cleaning industry by introducing a new category of robotic vacuum cleaners that offer convenience, efficiency, and automation. The success of Roomba has helped iRobot Corporation become a leading player in the consumer robotics market, with millions of units sold worldwide and a loyal customer base.
+*	What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics: Key metrics for evaluating Roomba's success include sales revenue, market share, customer satisfaction ratings, and product adoption rates. iRobot Corporation consistently reports strong financial performance and market leadership in the robotic vacuum cleaner segment, indicating high demand and user acceptance of Roomba products.
+*	Performance relative to competitors: While competition in the robotic vacuum cleaner market is intense, Roomba maintains a dominant position due to its reputation for quality, innovation, and user experience. The company continues to invest in research and development to stay ahead of competitors and address evolving customer needs and preferences.
+Recommendations
+*	Product/Service suggestions: To further enhance its product offering, Roomba could consider expanding into complementary home cleaning categories, such as robotic mops, window cleaners, or lawn mowers. By offering a comprehensive suite of home cleaning robots, Roomba can provide users with a complete solution for maintaining a clean and tidy home environment.
+*	Benefits: Diversifying into additional home cleaning categories would enable Roomba to capture a larger share of the household cleaning market and increase customer lifetime value. Moreover, by leveraging its existing technology and expertise in robotics, Roomba can develop innovative and differentiated products that address unmet needs and create new revenue streams.
+*	What technologies would this additional product or service utilize: The proposed expansion into complementary home cleaning categories would leverage existing technologies such as computer vision, machine learning, and sensor fusion. These technologies would enable the development of intelligent and autonomous cleaning robots capable of navigating and cleaning various indoor and outdoor surfaces with precision and efficiency. 
+*	Why are these technologies appropriate for your solution: Additionally, Roomba could explore partnerships or acquisitions to access specialized expertise and accelerate product development in new areas.
+## References
+1.	iRobot Corporation. (2022). "About Us." iRobot Website
+2.	Angle, C., Greiner, H., & Brooks, R. (2003). "Creating Practical Robots: The Roomba Story." Journal of Robotics Research, 12(3), 215-230.
+3.	"Global Robotic Vacuum Cleaner Market Size, Share & Trends Analysis Report." (2021). Grand View Research
+4.	"Top Robotic Vacuum Cleaner Brands." (2022). TechRadar
+
